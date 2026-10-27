@@ -23,6 +23,29 @@ Modern gamers navigate fragmented ecosystems (Steam, PlayStation Store, Xbox, Ni
 
 ---
 
+## 🖼️ Application Preview
+
+Experience the live deployed platform: **[arcadia-two-ruby.vercel.app](https://arcadia-two-ruby.vercel.app/)**
+
+> **Platform Model:** Arcadia aggregates game data, community reviews, and verified store availability. It is strictly a game discovery platform and does not offer an internal checkout or payment processing system.
+
+### 1. Discover & Featured Hero View
+The discovery landing page showcases featured titles with integrated Metacritic benchmark scoring, community rating indicators, genre categorization, and direct links to inspect title details, add to wishlist, or explore curated categories.
+
+![Arcadia Homepage & Featured Game](assets/arcadia-homepage.png)
+
+### 2. Multi-Platform Catalog Exploration & Filtering
+The catalog explorer provides real-time multi-platform filtering across PC, PlayStation 5, PlayStation 4, Xbox Series S/X, Xbox One, and Nintendo Switch, complete with genre categorization, popularity sorting, and responsive game cards.
+
+![Arcadia Catalog & Multi-Platform Filters](assets/arcadia-catalog.png)
+
+### 3. Real-Time Title Search & Match Results
+The search view queries cached title indexes and upstream catalog databases with instant keyword matching, displaying release year badges, platform compatibility tags, and community ratings.
+
+![Arcadia Title Search & Keyword Matching](assets/arcadia-search.png)
+
+---
+
 ## 🎯 Verified Features
 
 - **Multi-Platform Game Catalog**: Upstream proxy integration with the RAWG Video Games Database API featuring local database caching, Metacritic benchmark scoring, genre filtering, and bounded pagination.
