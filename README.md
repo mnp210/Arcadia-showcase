@@ -179,17 +179,19 @@ In the interest of full technical transparency, the following items reflect ongo
 
 ## 🌱 Project Evolution
 
-Arcadia grew out of an earlier gaming website created using WordPress: **[Gameverse](https://gaminginfo579763741.wordpress.com/home/)**.
+Arcadia grew out of an earlier gaming website I created using WordPress: **[Gameverse](https://gaminginfo579763741.wordpress.com/home/)**.
 
-That initial project provided hands-on experience in organizing gaming content and presenting video game media. It ultimately inspired a more comprehensive, production-grade game discovery platform in Arcadia—transitioning from a content site into a modern, full-stack application with searchable catalogs, platform and genre filtering, community reviews, personal libraries, and defense-in-depth security architecture.
+- **Origins & Inspiration:** Gameverse was my earlier WordPress-based gaming content website. Creating it introduced me to organizing gaming media and inspired the vision for the later Arcadia project.
+- **Advanced Full-Stack Platform:** Arcadia was built from the ground up as a separate, more advanced full-stack game-discovery platform featuring real-time searchable catalogs, platform and genre filtering, community reviews, personal libraries, and defense-in-depth security controls.
+- **Independent Architectures:** The two projects have completely separate codebases, repositories, and technology stacks:
 
-| Milestone | Project & Role | Architecture |
-| :--- | :--- | :--- |
-| **Early Exploration** | [Gameverse (WordPress)](https://gaminginfo579763741.wordpress.com/home/) | WordPress, CMS-managed gaming content |
-| **Current Platform** | [Arcadia (Live Web App)](https://arcadia-two-ruby.vercel.app/) | React 18, TypeScript, Node.js, Express, MongoDB Atlas, RAWG API |
-| **Engineering Docs** | [Showcase Repository](https://github.com/mnp210/Arcadia-showcase) | Architectural specs, threat models, API reference & verification runbooks |
+| Project | Description | Technology Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Gameverse** | Earlier gaming content website | WordPress CMS | [Gameverse (WordPress)](https://gaminginfo579763741.wordpress.com/home/) |
+| **Arcadia (Application)** | Advanced full-stack game discovery platform | React 18, TypeScript, Node.js, Express, MongoDB Atlas, RAWG API | [Arcadia Live Application](https://arcadia-two-ruby.vercel.app/) |
+| **Arcadia (Showcase)** | Architectural specifications, threat models & API contracts | Technical Documentation & Design Artifacts | [Arcadia Showcase Repository](https://github.com/mnp210/Arcadia-showcase) |
 
-*The two websites are separate projects that represent progressive stages of an engineering journey from content management to full-stack systems design.*
+*The two websites are separate projects that represent distinct stages of my development journey, transitioning from content management to full-stack application architecture.*
 
 ---
 
